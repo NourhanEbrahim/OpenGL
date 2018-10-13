@@ -1,4 +1,4 @@
-In This program , I simulate the connection between the client and server to request and receve a data.
+In This program , I simulate the connection between the client and server to request and receive a data.
 
 
 first: client send request to server,
